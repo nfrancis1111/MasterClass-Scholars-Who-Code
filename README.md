@@ -7,10 +7,11 @@ Here is the link to the presentation:
 https://tinyurl.com/scholarswhocode
 
 Some additional resources to help you further your coding knowledge is:
-
+*HTML- https://cdn.rawgit.com/hostinger/banners/2d7a9209/tutorials/pdf/The-Complete-HTML-Cheat-Sheet.pdf*
 HTML- https://www.w3schools.com/html/default.asp
 HTML- https://html.com/
 CSS- https://www.w3schools.com/css/default.asp
 CSS- https://developer.mozilla.org/en-US/docs/Web/CSS
 
-Thank you for attending the class! I hope you had a great time and learned lots. Remember that there is always more to learn and that Google is free.
+Thank you for attending the class! I hope you had a great time and learned lots. 
+Remember that there is always more to learn and that Google is free.
