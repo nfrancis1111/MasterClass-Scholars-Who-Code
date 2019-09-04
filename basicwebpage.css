@@ -1,6 +1,6 @@
 header{
-  color:red;
-  background: white;
+  color:white
+  background: red;
   margin:0;
  }
  
@@ -20,7 +20,7 @@ nav ul li{
 }
 
 body{
-  background: yellow;
+  background: white;
   color: red;
 }
 
