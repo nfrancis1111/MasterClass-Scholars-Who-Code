@@ -17,3 +17,12 @@ nav ul li{
     padding:10px 25px;
 
 }
+
+body{
+  background: yellow;
+  color: red;
+}
+
+footer{
+    background:red;
+    color: white;
