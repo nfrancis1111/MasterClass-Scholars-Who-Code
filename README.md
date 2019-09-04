@@ -13,6 +13,8 @@ Some additional resources to help you further your coding knowledge is:
   <li>HTML- https://html.com/</li>
   <li>CSS- https://www.w3schools.com/css/default.asp</li>
   <li>CSS- https://developer.mozilla.org/en-US/docs/Web/CSS</li>
+</ul>
+ <br>
 
 Thank you for attending the class! I hope you had a great time and learned lots. 
 Remember that there is always more to learn and that Google is free.
