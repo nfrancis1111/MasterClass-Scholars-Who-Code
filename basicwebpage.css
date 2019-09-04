@@ -1,6 +1,7 @@
 header{
   color:red;
   background: white;
+  margin:0;
  }
  
 nav ul{
@@ -10,7 +11,7 @@ nav ul{
 
 nav ul li{
     border-radius: 5px;
-    background: rgb(241, 229, 203);
+    background: green;
     color: darkblue;
     list-style-type: none;
     display: inline-block;
@@ -27,5 +28,6 @@ footer{
    background:red;
    color: white;
   display:block;
+  margin:0;
 }
   
